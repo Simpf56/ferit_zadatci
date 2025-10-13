@@ -1,20 +1,12 @@
-//#include <stdio.h>
-//#include <windows.h>
-//#define _CRT_SECURE_NO_WARNINGS
-//
-//int main() {
-//	SetConsoleOutputCP(1250);
-//	SetConsoleCP(1250);
-//
-//
-//	int x;
-//	int y;
-//
-//	printf("Unesite vašu visinu: ");
-//	scanf_s("%d", &x);
-//	printf("Unesite vašu težinu: ");
-//	scanf_s("%d", &y);
-//	printf("Vaša visina je %d a težina %d", x, y);
-//
-//	return 0;
-//}
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h> // fali .h
+
+int main(void) {
+	int a;  // tocka zarez fali
+	int b;
+	printf("Unesite dvije cjelobrojne vrijednosti! \n");  //printf ne print , \n za novi red radi preglednosti
+	scanf("%d", &a);    // & ide prije varijable i ne pod navodnicima , %d umjesto float jer se trazi cijeli broj
+	scanf("%d", &b);  // fali & prije b
+	printf("%d %d",a,b);  // printf("%d %d",a,b); Traži se cijeli broj ne float.
+	return 0;
+}
