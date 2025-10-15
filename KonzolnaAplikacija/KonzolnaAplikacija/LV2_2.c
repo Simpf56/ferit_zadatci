@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h> // fali .h
 
-int main(void) {
+int LV2_2(void) {
 	int a;  // tocka zarez fali
 	int b;
 	printf("Unesite dvije cjelobrojne vrijednosti! \n");  //printf ne print , \n za novi red radi preglednosti
