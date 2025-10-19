@@ -131,6 +131,7 @@
     <ClCompile Include="LV3_1.c" />
     <ClCompile Include="LV3_2.c" />
     <ClCompile Include="LV3_3.c" />
+    <ClCompile Include="LV3_4.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="LV2_1.c" />
     <ClCompile Include="LV2_2.c" />
