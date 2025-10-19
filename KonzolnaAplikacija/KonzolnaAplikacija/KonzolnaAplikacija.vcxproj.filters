@@ -36,5 +36,8 @@
     <ClCompile Include="LV3_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV3_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
