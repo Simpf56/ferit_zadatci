@@ -16,6 +16,7 @@ void LV4_4();
 void LV4_5();
 void LV4_6();
 void LV4_7();
+void LV4_8();
 
 int main() {
 	printf("Pokreæem zadatak! \n");
@@ -33,8 +34,8 @@ int main() {
 	//LV4_4();
 	//LV4_5();
 	//LV4_6();
-	LV4_7();
-	//LV4_8();
+	//LV4_7();
+	LV4_8();
 
 	return 0;
 }
