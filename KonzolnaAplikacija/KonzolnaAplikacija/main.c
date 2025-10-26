@@ -11,6 +11,11 @@ void LV3_3();
 void LV3_4();
 void LV4_1();
 void LV4_2();
+void LV4_3();
+void LV4_4();
+void LV4_5();
+void LV4_6();
+void LV4_7();
 
 int main() {
 	printf("Pokreæem zadatak! \n");
@@ -25,7 +30,11 @@ int main() {
 	//LV3_4();
 	//LV4_2();
 	//LV4_3();
-	LV4_4();
+	//LV4_4();
+	//LV4_5();
+	//LV4_6();
+	LV4_7();
+	//LV4_8();
 
 	return 0;
 }

@@ -136,6 +136,9 @@
     <ClCompile Include="LV4_2.c" />
     <ClCompile Include="LV4_3.c" />
     <ClCompile Include="LV4_4.c" />
+    <ClCompile Include="LV4_5.c" />
+    <ClCompile Include="LV4_6.c" />
+    <ClCompile Include="LV4_7.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="LV2_1.c" />
     <ClCompile Include="LV2_2.c" />
