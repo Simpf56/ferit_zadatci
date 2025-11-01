@@ -17,9 +17,17 @@ void LV4_5();
 void LV4_6();
 void LV4_7();
 void LV4_8();
+void LV5_1();
+void LV5_2();
+void LV5_3();
+void LV5_4();
+void LV5_5();
+void LV5_6();
+void LV5_7();
+//void LV5_8();
 
 int main() {
-	printf("Pokreæem zadatak! \n");
+	printf("Pokrecem zadatak! \n");
 
 	//LV2_1();
 	//LV2_2();
@@ -35,7 +43,15 @@ int main() {
 	//LV4_5();
 	//LV4_6();
 	//LV4_7();
-	LV4_8();
+	//LV4_8();
+	//LV5_1();
+	//LV5_2();
+	//LV5_3();
+	//LV5_4();
+	//LV5_5();
+	//LV5_6();
+	LV5_7();
+	//LV5_8();
 
 	return 0;
 }

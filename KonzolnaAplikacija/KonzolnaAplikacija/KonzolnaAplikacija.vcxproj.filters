@@ -66,5 +66,26 @@
     <ClCompile Include="LV4_8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV5_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV5_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
