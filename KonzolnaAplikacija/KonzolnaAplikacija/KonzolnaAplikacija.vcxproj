@@ -148,6 +148,25 @@
     <ClCompile Include="LV5_6.c" />
     <ClCompile Include="LV5_7.c" />
     <ClCompile Include="LV5_8.c" />
+    <ClCompile Include="LV6_1.c" />
+    <ClCompile Include="LV6_10.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV6_2.c" />
+    <ClCompile Include="LV6_3.c" />
+    <ClCompile Include="LV6_4.c" />
+    <ClCompile Include="LV6_5.c" />
+    <ClCompile Include="LV6_6.c" />
+    <ClCompile Include="LV6_7.c" />
+    <ClCompile Include="LV6_8.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV6_9.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.c" />
     <ClCompile Include="LV2_1.c" />
     <ClCompile Include="LV2_2.c" />

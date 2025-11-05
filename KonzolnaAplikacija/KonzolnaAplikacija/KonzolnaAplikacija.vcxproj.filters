@@ -90,5 +90,35 @@
     <ClCompile Include="LV5_8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV6_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6_10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
