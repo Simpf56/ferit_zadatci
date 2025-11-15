@@ -9,9 +9,9 @@ int LV7_2() {
 	float niz[VEL_POLJA];
 	printf("Unesite broj između 5 i 15.\n");
 	scanf("%f",&n);
-	if (n < 5 || n > VEL_POLJA) {
+	if (n < 5 || n > 15) {
 		printf("Krivi unos!");
-		return 404;
+		return 2;
 	}
 	
 	

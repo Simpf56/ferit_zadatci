@@ -171,6 +171,10 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="LV7_10.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="LV7_2.c">
       <SubType>
       </SubType>
@@ -183,7 +187,23 @@
       <SubType>
       </SubType>
     </ClCompile>
-    <ClCompile Include="LV7_X.c">
+    <ClCompile Include="LV7_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV7_6.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV7_7.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV7_8.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV7_9.c">
       <SubType>
       </SubType>
     </ClCompile>

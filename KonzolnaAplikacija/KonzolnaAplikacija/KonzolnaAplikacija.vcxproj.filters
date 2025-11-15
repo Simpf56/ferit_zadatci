@@ -132,7 +132,22 @@
     <ClCompile Include="LV7_4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LV7_X.c">
+    <ClCompile Include="LV7_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
