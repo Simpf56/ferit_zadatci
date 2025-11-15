@@ -120,5 +120,11 @@
     <ClCompile Include="LV6_10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV7_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

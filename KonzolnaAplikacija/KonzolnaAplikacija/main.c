@@ -35,6 +35,7 @@ void LV6_7();
 void LV6_8();
 void LV6_9();
 void LV6_10();
+void LV7_1();
 
 int main() {
 	printf("Pokrecem zadatak! \n");
@@ -71,7 +72,8 @@ int main() {
 	//LV6_7();
 	//LV6_8();
 	//LV6_9();
-	LV6_10();
+	//LV6_10();
+	LV7_1();
 
 
 

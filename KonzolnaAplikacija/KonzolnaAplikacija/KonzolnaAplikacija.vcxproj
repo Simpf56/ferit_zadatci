@@ -167,6 +167,14 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="LV7_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV7_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.c" />
     <ClCompile Include="LV2_1.c" />
     <ClCompile Include="LV2_2.c" />
