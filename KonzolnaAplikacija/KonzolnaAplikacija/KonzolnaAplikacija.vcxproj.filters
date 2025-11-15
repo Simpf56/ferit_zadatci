@@ -126,5 +126,14 @@
     <ClCompile Include="LV7_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV7_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7_X.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
