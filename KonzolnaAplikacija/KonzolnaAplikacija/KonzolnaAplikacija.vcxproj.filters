@@ -183,5 +183,17 @@
     <ClCompile Include="LV9_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV8_11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_14.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
