@@ -37,20 +37,6 @@ int LV8_14() {
 	return 0;
 }
 
-//for (i = 0; i < duzina; i++) {
-//    if (prije[i] == ':') {
-//        dvotocka = 1;
-//        break;
-//    }
-//}
-//
-
-//}
-//
-//scanf("%180[^\n]", poslije);
-//printf("REZULTAT:\n");
-//printf("Poslije: %s\n", poslije);
-
 
 //Napisati program u C jeziku koji omogućava korisniku unos jednog stringa od maksimalno 180 znakova(VPL se ponaša kao unos s tipkovnice).
 //Provjeriti nalazili se negdje u stringu znak dvotočke(:), 
