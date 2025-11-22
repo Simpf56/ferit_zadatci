@@ -150,5 +150,38 @@
     <ClCompile Include="LV7_10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV8_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8_10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV9_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,15 +3,15 @@
 #define VEL_POLJA 13
 
 int LV7_6() {
-	int n, i, brojac = 0;
+	int n = 0, i, brojac = 0;
 	float niz[VEL_POLJA];
 	float srednjaVelicina = 0;
 
 	printf("Unesite broj elementa niza od 3 do 13: \n");
-	scanf("%d", &n);
-	if (n <= 2 || n > 13) {
-		printf("Krivi unos!");
-		return 0;
+	while(n <= 2 || n > 13) {
+		scanf("%d", &n);
+		if(n <= 2 || n > 13)
+		printf("Krivi unos! \n");
 	}
 
 	printf("Unesite realne brojeve: \n");
@@ -23,7 +23,12 @@ int LV7_6() {
 		}
 	}
 
-	srednjaVelicina /= brojac;
+	if (brojac > 0) {
+		srednjaVelicina /= brojac;
+	}
+	else {
+		srednjaVelicina = 0; // nema pozitivnih brojeva
+	}
 
 	printf("Vaše polje: ");
 	for (i = 0; i < n; i++) {
