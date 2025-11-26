@@ -60,6 +60,19 @@ void LV8_12();
 void LV8_13();
 void LV8_14();
 void LV9_1();
+void LV9_2();
+void LV9_3();
+void LV9_4();
+void LV9_5();
+void LV9_6();
+void LV9_7();
+void LV9_8();
+void LV9_9();
+void LV9_10();
+void LV9_11();
+void LV9_12();
+void LV9_13();
+void LV9_14();
 
 int main() {
 	printf("Pokrecem zadatak! \n");
@@ -115,13 +128,26 @@ int main() {
 	//LV8_6();
 	//LV8_7();
 	//LV8_8();
-	LV8_9();
+	//LV8_9();
 	//LV8_10();
 	//LV8_11();
 	//LV8_12();
 	//LV8_13();
 	//LV8_14();
 	//LV9_1();
+	//LV9_2();
+	LV9_3();
+	//LV9_4();
+	//LV9_5();
+	//LV9_6();
+	//LV9_7();
+	//LV9_8();
+	//LV9_9();
+	//LV9_10();
+	//LV9_11();
+	//LV9_12();
+	//LV9_13();
+	//LV9_14();
 
 
 
