@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-float funkcija(int n);
+float izracun(int n);
 
 int LV9_2() {
 	int x;
@@ -9,7 +9,7 @@ int LV9_2() {
 	printf("Unesite vas broj: \n");
 	scanf("%d", &x);
 
-	rezultat = funkcija(x);
+	rezultat = izracun(x);
 
 	printf("REZULTAT:\n");
 	printf("%.2f",rezultat);
@@ -20,7 +20,7 @@ int LV9_2() {
 	return 0;
 }
 
-float funkcija(int n) {
+float izracun(int n) {
 	int i, brojac = 0;
 	float srednjaVrijednost = 0;
 
