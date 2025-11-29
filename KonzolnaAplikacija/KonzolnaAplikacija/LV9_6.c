@@ -22,6 +22,9 @@ double razlikaMaxMin(int x) {
 	int min = x % 10;
 	int ostatak = 0;
 	double razlika;
+	if (x < 10) {
+		return x;
+	}
 
 	while (x > 0) {
 		ostatak = x % 10;		
