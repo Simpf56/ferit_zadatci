@@ -4,7 +4,8 @@
 
 int LV10_5() {
 	int i, j, m;
-	int niz[NIZ][NIZ] = { 0 };
+	float x;
+	float niz[NIZ][NIZ] = { 0 };
 
 	printf("Unesite dimenziju vase kvadratne matrice (min 3 max 8):\n");
 	scanf("%d", &m);
@@ -13,14 +14,40 @@ int LV10_5() {
 		return 0;
 	}
 
-	printf("Unesite broj x:\n");
+	printf("Unesite realan broj x(od 0 do 1):\n");
+	scanf("%f", &x);
+	if (x <= 0 || x>1) {
+		printf("Krivi unos!");
+		return 0;
+	}
+
+	printf("Unesite brojeve vase matrice:\n");
+	for (i = 0; i < m; i++) {
+		for (j = 0; j < m; j++) {
+			scanf("%f", &niz[i][j]);
+		}
+	}
 
 
 	for (i = 0; i < m; i++) {
 		for (j = 0; j < m; j++) {
-			
-		}
+			if ((i + j)==(m - 1)) {
+				niz[i][j] *= x;
+			}			
+		}		
 	}
+
+	for (i = 0; i < m; i++) {
+		for (j = 0; j < m; j++) {
+			if (i==j) {
+				int j_sporedna = m - 1 - i;
+				niz[i][j] = niz[i][j_sporedna];
+			}
+			printf("%.2f ", niz[i][j]);
+		}
+		printf("\n");
+	}
+	
 
 	return 0;
 }
@@ -29,3 +56,6 @@ int LV10_5() {
 ≤ m < 9. Potom omogućiti mu popunjavanje te matrice. Također omogućiti korisniku unos realnog
 broj 0 < x ≤ 1. Pomnožiti elemente sporedne dijagonale matrice s x te potom prepisati elemente
 glavne dijagonale s njima. Ispisati matricu na ekran.*/
+
+//printf("%.2f ", niz[i][j]);
+//printf("\n");
