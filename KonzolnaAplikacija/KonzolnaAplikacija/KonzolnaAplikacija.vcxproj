@@ -128,6 +128,46 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LV10_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_10.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_6.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_7.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_8.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV10_9.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="LV3_1.c" />
     <ClCompile Include="LV3_2.c" />
     <ClCompile Include="LV3_3.c" />
