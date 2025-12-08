@@ -83,6 +83,8 @@ void LV10_7();
 void LV10_8();
 void LV10_9();
 void LV10_10();
+void LV10_11();
+void LV10_12();
 
 int main() {
 	printf("Pokrecem zadatak! \n");
@@ -167,7 +169,9 @@ int main() {
 	//LV10_7();
 	//LV10_8();
 	//LV10_9();
-	LV10_10();
+	//LV10_10();
+	LV10_11();
+	//LV10_12();
 
 
 	return 0;

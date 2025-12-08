@@ -264,5 +264,11 @@
     <ClCompile Include="LV10_10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV10_12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV10_11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

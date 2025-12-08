@@ -24,6 +24,9 @@ int LV10_9() {
 	for (i = 0; i < m; i++) {
 		for (j = 0; j < n; j++) {
 			scanf("%f", &niz[i][j]);
+			if (niz[i][j] < 0) {
+				niz[i][j] = -niz[i][j];
+			}
 		}
 	}
 
