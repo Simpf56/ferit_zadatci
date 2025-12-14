@@ -270,5 +270,44 @@
     <ClCompile Include="LV10_11.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV11_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11_13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

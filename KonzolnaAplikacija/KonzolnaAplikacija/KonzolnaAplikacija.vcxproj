@@ -177,6 +177,58 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="LV11_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_10.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_11.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_12.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_13.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_6.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_7.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_8.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV11_9.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="LV3_1.c" />
     <ClCompile Include="LV3_2.c" />
     <ClCompile Include="LV3_3.c" />
