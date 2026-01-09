@@ -229,6 +229,14 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="LV12_10.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV12_9.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="LV3_1.c" />
     <ClCompile Include="LV3_2.c" />
     <ClCompile Include="LV3_3.c" />

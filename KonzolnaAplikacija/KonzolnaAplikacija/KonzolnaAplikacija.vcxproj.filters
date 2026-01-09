@@ -309,5 +309,11 @@
     <ClCompile Include="LV11_13.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV12_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV12_10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
