@@ -213,9 +213,9 @@ int main() {
 	//LV14_2();
 	//LV_Zadnji1();
 	//LV_Zadnji2();
-	//LV_Zadnji3();
+	LV_Zadnji3();
 	//LV_Zadnji4();
-LV_Zadnji5();
+//LV_Zadnji5();
 
 	return 0;
 }

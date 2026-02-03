@@ -13,7 +13,7 @@ int LV_Zadnji3() {
 		scanf("%d", &m);
 	}
 
-	p = (char*)malloc((m + 1) * sizeof(char));
+	p = malloc((m + 1) * sizeof(char));
 	if(p == NULL) return 0;
 
 	scanf("%s", p);
@@ -31,18 +31,17 @@ int LV_Zadnji3() {
 }
 
 void changeString(char* s) {
-	int i = 0;
-	char* q = s;
+	int brojac = 0;
 
-	while (*q != '\0') {
-		if (i % 2 == 1) {
-			if (*q >= 'a' && *q <= 'z') {
+	while (*s != '\0') {
+		if (*s >= 'a' && *s <= 'z') {
+			if (brojac%2==1) {
 				int dg = 'A';
 				int gg = 'Z';
-				*q = (char)(dg + rand() % (gg - dg + 1));
+				*s = (dg + rand() % (gg - dg + 1));
 			}
+			brojac++;
 		}
-		q++;
-		i++;
+		s++;
 	}
 }
