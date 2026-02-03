@@ -436,11 +436,31 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="LV_Zadnji1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.c" />
     <ClCompile Include="LV2_1.c" />
     <ClCompile Include="LV2_2.c" />
     <ClCompile Include="LV2_4.c" />
     <ClCompile Include="LV2_3.c" />
+    <ClCompile Include="LV_Zadnji3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

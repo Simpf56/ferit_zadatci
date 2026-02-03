@@ -102,6 +102,11 @@ void LV12_9();
 void LV12_10();
 void LV14_1();
 void LV14_2();
+void LV_Zadnji1();
+void LV_Zadnji2();
+void LV_Zadnji3();
+void LV_Zadnji4();
+void LV_Zadnji5();
 
 int main() {
 	printf("Pokrecem zadatak! \n");
@@ -205,8 +210,12 @@ int main() {
 	//LV12_9();
 	//LV12_10();
 	//LV14_1();
-	LV14_2();
-
+	//LV14_2();
+	//LV_Zadnji1();
+	//LV_Zadnji2();
+	//LV_Zadnji3();
+	//LV_Zadnji4();
+LV_Zadnji5();
 
 	return 0;
 }

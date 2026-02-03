@@ -321,5 +321,20 @@
     <ClCompile Include="LV14_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV_Zadnji1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_Zadnji5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
