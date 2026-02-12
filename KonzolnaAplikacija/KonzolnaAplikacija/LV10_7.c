@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include "zadaci.h"
 #define NIZ 16
 
 int LV10_7() {

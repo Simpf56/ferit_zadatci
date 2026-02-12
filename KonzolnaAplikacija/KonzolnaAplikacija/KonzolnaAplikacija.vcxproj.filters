@@ -336,5 +336,8 @@
     <ClCompile Include="LV_Zadnji5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zadaci.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

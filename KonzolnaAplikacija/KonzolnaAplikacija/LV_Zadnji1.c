@@ -1,5 +1,6 @@
 
 #define _CRT_SECURE_NO_WARNINGS
+#include "zadaci.h"
 #include <stdio.h>
 #define NIZ 12
 

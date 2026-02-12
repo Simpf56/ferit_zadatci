@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "zadaci.h"
 
 int LV4_2(){
 float a = 5;

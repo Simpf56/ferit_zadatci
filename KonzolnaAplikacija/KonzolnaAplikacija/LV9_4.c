@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
+#include "zadaci.h"
+
 float povrsina(float a, float b, float c);
 
 int LV9_4() {

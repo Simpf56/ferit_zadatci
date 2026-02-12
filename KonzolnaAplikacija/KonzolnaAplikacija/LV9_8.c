@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include "zadaci.h"
+
 float razlomak(float x1, float x2, float x3);
 
 int LV9_8() {

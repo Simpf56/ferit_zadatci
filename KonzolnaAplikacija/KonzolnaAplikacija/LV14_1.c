@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
+#include "zadaci.h"
 
 void fillPSArray(float* niz, int duzina, float donjaGranica, float gornjaGranica);
 

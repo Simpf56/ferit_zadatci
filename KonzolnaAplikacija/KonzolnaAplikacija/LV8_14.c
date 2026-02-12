@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #define NIZ 181
+#include "zadaci.h"
 
 int LV8_14() {
     int i,duzina,pozicijaDvotocke,dvotocka = 0;

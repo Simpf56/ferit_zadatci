@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
+#include "zadaci.h"
 #include <stdio.h>
 #include <stdlib.h>
 

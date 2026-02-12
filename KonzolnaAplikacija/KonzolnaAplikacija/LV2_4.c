@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
+#include "zadaci.h"
 #include <stdio.h>
 #include <windows.h>
 
@@ -10,7 +11,7 @@ int LV2_4() {
 	int druga = 0;
 	int treca = 0;
 
-	printf("Upišite prvu stranicu trokuta: ");
+	printf("Upiï¿½ite prvu stranicu trokuta: ");
 
 	while (prva <= 0) {
 		scanf_s("%d", &prva);
@@ -19,21 +20,21 @@ int LV2_4() {
 		}
 	}
 
-	printf("Upišite drugu stranicu trokuta koja je dva puta veæa od prošle: ");
+	printf("Upiï¿½ite drugu stranicu trokuta koja je dva puta veï¿½a od proï¿½le: ");
 
 	while (druga < 2*prva) {
 		scanf_s("%d", &druga);
 		if (druga < 2*prva) {
-			printf("Unos mora biti 2 puta veæi od prethodnog! \n");
+			printf("Unos mora biti 2 puta veï¿½i od prethodnog! \n");
 		}
 	}
 
-	printf("Upiši treæu stranicu trokuta koja je dva puta veæa od prošle: ");
+	printf("Upiï¿½i treï¿½u stranicu trokuta koja je dva puta veï¿½a od proï¿½le: ");
 
 	while (treca < 2*druga) {
 		scanf_s("%d", &treca);
 		if (treca < 2*druga) {
-			printf("Unos mora biti 2 puta veæi od prethodnog! \n");
+			printf("Unos mora biti 2 puta veï¿½i od prethodnog! \n");
 		}
 	}
 

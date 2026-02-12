@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
+#include "zadaci.h"
 #include <stdio.h>
 #include <windows.h>
 
@@ -10,11 +11,11 @@ int LV2_3() {
 	int x;
 	int y;
 
-	printf("Unesite vašu visinu: ");
+	printf("Unesite vaï¿½u visinu: ");
 	scanf_s("%d", &x);
-	printf("Unesite vašu težinu: ");
+	printf("Unesite vaï¿½u teï¿½inu: ");
 	scanf_s("%d", &y);
-	printf("Vaša visina je %d a težina %d", x, y);
+	printf("Vaï¿½a visina je %d a teï¿½ina %d", x, y);
 
 	return 0;
 }

@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include "zadaci.h"
 #define metar 1.5e5
 #define e 2.7e-18
+
 int LV3_4() {
 	const float duzina = 1.5e3f;
 	const float visina = 3.14e15f;

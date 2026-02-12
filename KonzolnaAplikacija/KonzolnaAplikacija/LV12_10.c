@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "zadaci.h"
 #define NIZ 20
 
 void fillArray(int* a, int n);

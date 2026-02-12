@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #define NIZ 111
+#include "zadaci.h"
 
 int LV8_9() {
 	int i, j,z;

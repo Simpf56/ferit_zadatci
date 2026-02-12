@@ -1,3 +1,5 @@
+
+#include "zadaci.h"
 int LV4_1(void)
 {
 	float br1, br2;

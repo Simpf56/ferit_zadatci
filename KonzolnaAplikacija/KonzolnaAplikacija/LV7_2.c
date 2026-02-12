@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #define VEL_POLJA 15
+#include "zadaci.h"
 
 int LV7_2() {
 	float srednjaVelicina = 0;

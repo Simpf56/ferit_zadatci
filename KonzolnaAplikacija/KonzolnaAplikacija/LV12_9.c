@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
+#include "zadaci.h"
 #define NIZ 51
 
 void change(char* s);

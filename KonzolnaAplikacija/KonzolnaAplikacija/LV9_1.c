@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #define PI 3.14
+#include "zadaci.h"
 
 float volumen(float polumjer,float visina);
 

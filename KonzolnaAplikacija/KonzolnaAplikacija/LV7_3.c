@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include "zadaci.h"
 #define VEL_POLJA 20
+
 
 int LV7_3() {
 	int n, i, veci = 0, manji = 0;
