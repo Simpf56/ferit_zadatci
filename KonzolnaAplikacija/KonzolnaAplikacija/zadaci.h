@@ -102,10 +102,24 @@ int LV12_9();
 int LV12_10();
 int LV14_1();
 int LV14_2();
+int LV14_3();
+int LV14_4();
+int LV14_5();
+int LV14_6();
+int LV14_7();
+int Ispit1_1();
+int Ispit1_2();
+int Ispit1_3();
 int LV_Zadnji1();
 int LV_Zadnji2();
 int LV_Zadnji3();
 int LV_Zadnji4();
 int LV_Zadnji5();
+int Prog2LV1_1();
+int Prog2LV1_2();
+int Prog2LV1_3();
+int Prog2LV1_4();
+int Prog2LV1_5();
+int Prog2LV1_6();
 
 #endif

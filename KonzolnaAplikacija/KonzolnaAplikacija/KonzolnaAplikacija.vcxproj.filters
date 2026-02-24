@@ -339,5 +339,47 @@
     <ClCompile Include="zadaci.h">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LV14_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ispit1_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ispit1_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ispit1_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

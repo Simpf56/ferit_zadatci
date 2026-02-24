@@ -4,7 +4,9 @@
 
 int main() {
 	printf("Pokrecem zadatak! \n");
-
+	//Ispit1_1();
+	//Ispit1_2();
+	//Ispit1_3();
 	//LV2_1();
 	//LV2_2();
 	//LV2_3();
@@ -55,7 +57,7 @@ int main() {
 	//LV8_5();
 	//LV8_6();
 	//LV8_7();
-	LV8_8();
+	//LV8_8();
 	//LV8_9();
 	//LV8_10();
 	//LV8_11();
@@ -105,11 +107,22 @@ int main() {
 	//LV12_10();
 	//LV14_1();
 	//LV14_2();
+	//LV14_3();
+	//LV14_4();
+	//LV14_5();
+	//LV14_6();
+	 //LV14_7();	
 	//LV_Zadnji1();
 	//LV_Zadnji2();
 	//LV_Zadnji3();
 	//LV_Zadnji4();
-//LV_Zadnji5();
+	// //LV_Zadnji5();
+	//Prog2LV1_1();
+	//Prog2LV1_2();
+	//Prog2LV1_3();
+	Prog2LV1_4();
+	//Prog2LV1_5();
+	//Prog2LV1_6();
 
 	return 0;
 }

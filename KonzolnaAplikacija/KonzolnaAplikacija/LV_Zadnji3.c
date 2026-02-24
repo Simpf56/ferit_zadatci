@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void changeString(char* s);
+void changeStrings(char* s);
 
 int LV_Zadnji3() {
 	int m = 0;
@@ -19,7 +19,7 @@ int LV_Zadnji3() {
 
 	scanf("%s", p);
 
-	changeString(p);
+	changeStrings(p);
 
 	printf("REZULTATI:\n");
 	printf("%s\n",p);
@@ -31,7 +31,7 @@ int LV_Zadnji3() {
 	return 0;
 }
 
-void changeString(char* s) {
+void changeStrings(char* s) {
 	int brojac = 0;
 
 	while (*s != '\0') {

@@ -129,6 +129,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ispit1_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Ispit1_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Ispit1_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="LV10_1.c">
       <SubType>
       </SubType>
@@ -242,6 +254,26 @@
       </SubType>
     </ClCompile>
     <ClCompile Include="LV14_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV14_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV14_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV14_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV14_6.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="LV14_7.c">
       <SubType>
       </SubType>
     </ClCompile>
@@ -458,6 +490,30 @@
     <ClCompile Include="LV2_4.c" />
     <ClCompile Include="LV2_3.c" />
     <ClCompile Include="LV_Zadnji3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV1_6.c">
       <SubType>
       </SubType>
     </ClCompile>
