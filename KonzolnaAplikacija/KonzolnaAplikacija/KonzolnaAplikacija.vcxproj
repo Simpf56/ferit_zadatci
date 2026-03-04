@@ -129,6 +129,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Prog2LV2_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="Ispit1_1.c">
       <SubType>
       </SubType>
@@ -514,6 +522,22 @@
       </SubType>
     </ClCompile>
     <ClCompile Include="Prog2LV1_6.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_5.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_6.c">
       <SubType>
       </SubType>
     </ClCompile>

@@ -381,5 +381,23 @@
     <ClCompile Include="Prog2LV1_6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prog2LV2_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV2_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
