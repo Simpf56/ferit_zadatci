@@ -399,5 +399,14 @@
     <ClCompile Include="Prog2LV2_6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prog2LV3_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV3_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog2LV3_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

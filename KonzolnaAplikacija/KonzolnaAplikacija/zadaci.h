@@ -127,6 +127,9 @@ int Prog2LV2_3();
 int Prog2LV2_4();
 int Prog2LV2_5();
 int Prog2LV2_6();
+int Prog2LV3_1();
+int Prog2LV3_2();
+int Prog2LV3_3();
 
 
 #endif
