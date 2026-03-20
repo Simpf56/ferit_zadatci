@@ -130,6 +130,10 @@ int Prog2LV2_6();
 int Prog2LV3_1();
 int Prog2LV3_2();
 int Prog2LV3_3();
+int Prog2LV4_1();
+int Prog2LV4_2();
+int Prog2LV4_3();
+int Prog2LV4_4();
 
 
 #endif

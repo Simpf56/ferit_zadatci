@@ -553,6 +553,22 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="Prog2LV4_1.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV4_2.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV4_3.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Prog2LV4_4.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="zadaci.h">
       <SubType>
       </SubType>
